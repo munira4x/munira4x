@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Munira saud
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me muniraalmunif1@gmail.com
 
