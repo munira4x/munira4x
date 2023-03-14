@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Munira saud
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning data analysis
+- 👀 I’m interested in Linux/cybersecurity.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me muniraalmunif1@gmail.com
 
